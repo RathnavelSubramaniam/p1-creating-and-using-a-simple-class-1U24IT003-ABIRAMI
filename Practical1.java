@@ -35,6 +35,6 @@ public class Practical1 {
 
         // Calculate and print the average age
         double averageAge = (person1.age + person2.age) / 2.0;
-        System.out.println("Average Age:" + averageAge);
+        System.out.println("Average age:" + averageAge);
     }
 }
